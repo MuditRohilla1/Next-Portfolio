@@ -161,6 +161,7 @@ export const projects = [
         img: "/expense.jpg",
         iconLists: ["/next.svg", "/re.svg", "/shdcn.png", "/javascript.svg", "/tail.svg", "/dz.png"],
         link: "/ui.earth.com",
+        href: "https://github.com/MuditRohilla1/Expense-Tracker"
     },
     {
         id: 2,

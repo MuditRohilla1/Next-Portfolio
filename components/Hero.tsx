@@ -50,7 +50,7 @@ const Hero = () => {
                     />
 
                     <div className="text-center md:tracking-wider mb-4 text-lg md:text-lg lg:text-2xl">
-                        Hi! I&apos;m <span className="text-purple font-bold text-3xl">Mudit Rohilla</span>, a<FlipWords words={words}/>Developer based in Gurgaon.
+                        Hi! I&apos;m <span className="text-purple font-bold text-3xl">Mudit Rohilla</span>, a<FlipWords words={words}/>Developer From Chandigarh University.
                     </div>
 
                     <a href="#about">
